@@ -8,9 +8,14 @@ I'm a Software Engineer and Indie Game Developer.
 
 ### Connect with me:
 
-[<img align="left" alt="HasmadenErolcan | Twitter" width="22px" src="https://twitter.com/HasmadenErolcan" />][twitter]
-[<img align="left" alt="Erolcan Hasmaden | LinkedIn" width="22px" src="https://www.linkedin.com/in/erolcan-hasmaden-602776193/" />][linkedin]
-[<img align="left" alt="erolcanhasmaden | Instagram" width="22px" src="https://www.instagram.com/erolcanhasmaden/" />][instagram]
+### Connect with me:
+
+
+[<img align="left" alt="HasmadenErolcan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/HasmadenErolcan]
+[<img align="left" alt="Erolcan Hasmaden | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/erolcan-hasmaden-602776193/]
+[<img align="left" alt="erolcanhasmaden | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/erolcanhasmaden/]
+
+<br />
 
 <br />
 
