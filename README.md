@@ -40,6 +40,6 @@
 [visualstudio]: https://code.visualstudio.com/
 [html5]: https://developer.mozilla.org/tr/docs/Web/HTML/HTML5
 [sql]: https://www.w3schools.com/sql/
-[mongoDB] : https://www.mongodb.com/
+[mongoDB] : https://www.mongodb.com
 [git]: https://git-scm.com/
 [github]: https://github.com/
