@@ -31,8 +31,6 @@
 <br />
 
 
-<img align="left" alt="Erol Can Hasmaden's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ElektroJager&show_icons=true&hide_border=true" />
-
 [twitter]: https://twitter.com/HasmadenErolcan
 [instagram]: https://www.instagram.com/erolcanhasmaden/
 [linkedin]: https://www.linkedin.com/in/erolcan-hasmaden-602776193/
