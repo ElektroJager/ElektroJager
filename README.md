@@ -8,15 +8,12 @@ I'm a Software Engineer and Indie Game Developer.
 
 ### Connect with me:
 
-### Connect with me:
+[<img align="left" alt="HasmadenErolcan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="erolcan-hasmaden-602776193/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="erolcanhasmaden/ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[<img align="left" alt="HasmadenErolcan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]https://twitter.com/HasmadenErolcan
-[<img align="left" alt="Erolcan Hasmaden | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://www.linkedin.com/in/erolcan-hasmaden-602776193/
-[<img align="left" alt="erolcanhasmaden | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]https://www.instagram.com/erolcanhasmaden/
 
 <br />
-
 <br />
 
 ### Languages and Tools:
