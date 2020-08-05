@@ -1,4 +1,4 @@
-### Hi there, I'm Erolcan 👋
+### Hi there, I'm Erolcan aka ElektroJager👋
 
 ## I'm a Software Engineer and Indie Game Developer.
 - 🔭 I’m currently working on WebScraping Project with Python. (BeautifulSoup4 and Requests)
