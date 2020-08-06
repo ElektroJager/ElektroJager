@@ -3,7 +3,6 @@
 ## I'm a Software Engineer and Indie Game Developer.
 - 🔭 I’m currently working on WebScraping Project with Python. (BeautifulSoup4 and Requests)
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators.
 - 🥅 2020 Goals: Find job in a well-known software company.😁
 - ⚡ Fun fact: I love to play video games. 🎮
 
