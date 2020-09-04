@@ -1,6 +1,6 @@
 ### Hi there, I'm Erolcan aka ElektroJager👋
 
-## I'm a Software Engineer and Indie Game Developer.
+## I'm a Software Engineer.. 💻
 - 🔭 I’m currently working on React-Native app. (React-Native and Firebase)
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Find job in a well-known software company.😁
