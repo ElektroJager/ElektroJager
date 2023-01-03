@@ -1,7 +1,7 @@
 ### Hi there, I'm Erolcan aka ElektroJager👋
 
 ## I'm a Software Engineer.. 💻
-- 🥅 2021 Goals: Find job in a well-known software company.😁
+- 🥅 2023 Goals: Find job in a well-known software company.😁
 
 ### Connect with me:
 
