@@ -1,7 +1,8 @@
 ### Hi there, I'm Erolcan aka ElektroJager👋
 
-## I'm a Software Engineer.. 💻
-- 🥅 2023 Goals: Find job in a well-known software company.😁
+## I'm a Senior Software Engineer at Namila 💻
+- 🚀 Currently working at Namila as a Senior Software Engineer
+- 💡 Building innovative software solutions and leading technical projects
 
 ### Connect with me:
 
